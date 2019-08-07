@@ -51,3 +51,4 @@ library
 
   exposed-modules:
     Gnome.Keyring
+  ghc-options:       -Wall
