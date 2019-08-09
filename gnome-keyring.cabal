@@ -20,7 +20,7 @@ description:
   Documentation for the original library is available at
   <http://library.gnome.org/devel/gnome-keyring/stable/>.
 
-extra-source-files:
+extra-source-files: ChangeLog.md, README.md
   authors.txt
   "documentation license.txt"
 
