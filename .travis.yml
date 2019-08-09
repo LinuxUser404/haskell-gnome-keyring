@@ -2,7 +2,6 @@ language: haskell
 addons:
   apt:
     packages:
-      - pkg-config
       - libgnome-keyring-dev
 ghc:
   - "7.0"
