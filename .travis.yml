@@ -14,3 +14,5 @@ ghc:
   - "8.2"
   - "8.4"
   - "8.6"
+before_instal:
+  - cabal install c2hs
