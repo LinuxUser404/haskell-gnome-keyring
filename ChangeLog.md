@@ -6,4 +6,4 @@
 * Added README
 * fixed tab warnings
 * now maintained by Nick Pershyn
-* bumped cabal version requirement to 2.0
+* bumped cabal version requirement to 1.10
