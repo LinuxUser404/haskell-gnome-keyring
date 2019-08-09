@@ -3,7 +3,7 @@ addons:
   apt:
     packages:
       - pkg-config
-      - libgnome-keyring
+      - libgnome-keyring-dev
 ghc:
   - "7.0"
   - "7.2"
