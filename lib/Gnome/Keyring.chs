@@ -139,7 +139,7 @@ import           Control.Monad (join)
 import           Data.Time (UTCTime)
 import           Data.Time.Clock.POSIX (posixSecondsToUTCTime)
 import           Data.Typeable (Typeable)
-#if __GLASGOW_HASKELL__ < 702
+#if __GLASGOW_HASKELL__ < 708
 import           Foreign hiding (unsafePerformIO)
 #else
 import           Foreign
