@@ -26,12 +26,12 @@ extra-source-files:
 
 source-repository head
   type: git
-  location: https://github.com/LinuxUser404/haskell-gnome-keyring
+  location: https://github.com/LinuxUser404/haskell-gnome-keyring.git
 
 source-repository this
   type: git
-  location: https://github.com/LinuxUser404/haskell-gnome-keyring
-  tag: haskell-gnome-keyring_0.3
+  location: https://github.com/LinuxUser404/haskell-gnome-keyring.git
+  tag: haskell-gnome-keyring_0.3.2
 
 library
   hs-source-dirs: lib
